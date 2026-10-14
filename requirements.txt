@@ -1,1 +1,5 @@
 pyTelegramBotAPI
+pyTelegramBotAPI
+pyrogram
+pytgcalls
+yt-dlp
